@@ -6,7 +6,11 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-node-files is a Node.js library provides many functions to make dealing with file system operations super easy.
+Structure and Organize React Components for Enterprise Application
+
+React is the most popular Javascript library for building user interfaces. <br/>
+React does not have any standard folder structure to group the components and logic.<br/>
+React App can be structured in any way based on the project needs. 
 
 
 ## Contributing
