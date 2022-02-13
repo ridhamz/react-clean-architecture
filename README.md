@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-  <h3 align="center">React clen architecture</h3>
+  <h3 align="center">React clean architecture</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
